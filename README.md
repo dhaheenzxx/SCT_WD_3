@@ -1,25 +1,36 @@
-To-Do Task Manager Application
+Quiz Game Application
+- A dynamic and interactive quiz game built with HTML, CSS, and JavaScript, featuring multiple question types and real-time scoring.
 
-## Features
+Features
+- Multiple Question Types:
 
--  Add tasks with descriptions, due dates, and priority levels (Low/Medium/High)
--  Mark tasks as completed with visual indicators
--  Edit existing tasks
--  Search through your tasks
--  Sort tasks by date or priority
--  Delete tasks or clear completed ones
--  Light/Dark theme toggle
--  Automatic local storage saving
+- Single-select multiple choice
 
-## Technologies Used
+- Multi-select questions
 
-- HTML5
-- CSS3 (with CSS Variables for theming)
-- JavaScript (ES6)
-- LocalStorage for data persistence
+- Fill-in-the-blank questions
 
-## How to Use
+- Interactive UI with responsive design
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Start managing your tasks!
+- Real-time score tracking and final results display
+
+- Timer option (optional implementation)
+
+- Easy to customize with new questions and categories
+
+Usage
+- Open the quiz in a web browser.
+
+- Answer questions by selecting options or typing responses.
+
+- View your score at the end and restart if desired.
+
+Technologies Used
+- HTML5 (Structure)
+
+- CSS3 (Styling & Animations)
+
+- JavaScript (Logic & Interactivity)
+
+Contributing
+- Contributions are welcome! Fork the repo and submit a Pull Request with improvements.
